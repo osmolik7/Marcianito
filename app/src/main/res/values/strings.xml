@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Marcianito</string>
+    <string name="fondo">fondo de marcianito</string>
+    <string name="titulo">Bienvenido</string>
+    <string name="boton">Entrar</string>
+</resources>

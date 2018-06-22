@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Marsmensch</string>
+    <string name="fondo">Mars-Hintergrund</string>
+    <string name="titulo">Willkommen</string>
+    <string name="boton">Eingeben</string>
+</resources>
